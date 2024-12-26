@@ -7,8 +7,7 @@ This project demonstrates the basic functionality of controlling an LED using an
 - 1 x Arduino Board (e.g., Arduino Uno)
 - 1 x LED
 - 1 x 220-ohm Resistor
-- 1 x Breadboard
-- Jumper Wires
+- Wires
 
 ## Circuit Diagram
 1. Connect the **anode** (longer leg) of the LED to **pin 13** on the Arduino.
